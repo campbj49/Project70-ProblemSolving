@@ -18,6 +18,4 @@ function averagePair(array, target) {
         start++;
     }
     return false;
-
-    //theres almost certainly 
 }
